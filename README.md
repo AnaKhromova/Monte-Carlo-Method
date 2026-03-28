@@ -1,4 +1,6 @@
-# Monte-Carlo-Method
+# The Monte Carlo Method, when nothing else works — with Python Examples
+
+Author: Anastasiya Khromova (anastasiya.khromova17@gmail.com), 2025
 
 The Monte Carlo method is a powerful computational technique that relies on random sampling to estimate numerical quantities, simulate complex systems, and solve problems that are difficult or impossible to solve analytically, particularly when traditional analytical approaches are infeasible or when the problem is too complex to be solved deterministically.
 
